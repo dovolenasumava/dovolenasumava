@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pokoj Debrník
+title: Pokoj Debrník - 2 lůžkový
 tagline: "dvoulůžkový pokoj se společnou koupelnou"
 menu: ubytovani
 weight: 6
