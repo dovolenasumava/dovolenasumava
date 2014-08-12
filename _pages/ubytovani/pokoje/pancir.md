@@ -22,4 +22,4 @@ photos:
     description : ''
 ---
 
-Pokoj Pancíř má vlastní sociální zařízení se sprchou, umyvadlem a WC. Je vhodný pro pobyt malé rodiny případně páru. Je orientovaný na JZ stranu.
+Pokoj Pancíř má vlastní sociální zařízení se sprchou, umyvadlem a WC. Je vhodný pro pobyt malé rodiny případně páru. Je orientovaný na SV stranu.
