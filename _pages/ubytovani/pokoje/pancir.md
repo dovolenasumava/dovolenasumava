@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pokoj Pancíř
+title: Pokoj Pancíř - 3 lůžkový
 tagline: "třílůžkový pokoj s vlastní koupelnou"
 menu: ubytovani
 weight: 3
