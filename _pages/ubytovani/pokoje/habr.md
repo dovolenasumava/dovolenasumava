@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pokoj Habr
+title: Pokoj Habr - 5 lůžkový
 tagline: "čtyřlůžkový pokoj se společnou koupelnou"
 menu: ubytovani
 weight: 5
@@ -20,4 +20,4 @@ photos:
     description : ''
 ---
 
-Pokoj Habr je vhodný pro ubytování dětí při hromadných výpravách. Používá společnou koupelnu a WC na chodbě. Je prostorný, orientovaný na JV stranu a pojme až 6 hostů.
+Pokoj Habr je vhodný pro ubytování dětí při hromadných výpravách. Používá společnou koupelnu a WC na chodbě. Je prostorný, orientovaný na JV stranu a pojme standardně  5 a s přistýlkou až 6 hostů.
