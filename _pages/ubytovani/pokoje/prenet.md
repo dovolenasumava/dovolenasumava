@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pokoj Prenet
+title: Pokoj Prenet - 2 lůžkový
 tagline: "dvoulůžkový pokoj s vlastní koupelnou"
 menu: ubytovani
 weight: 4
