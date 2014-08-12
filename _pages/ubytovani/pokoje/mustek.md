@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pokoj Můstek
+title: Pokoj Můstek - 4 lůžkový
 tagline: "čtyřlůžkový pokoj s vlastní koupelnou"
 menu: ubytovani
 weight: 2
