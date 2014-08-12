@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pokoj Špičák
+title: Pokoj Špičák - 4 lůžkový
 tagline: "čtyřlůžkový pokoj s vlastní koupelnou"
 menu: ubytovani
 weight: 1
