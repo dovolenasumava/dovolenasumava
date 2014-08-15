@@ -31,12 +31,25 @@ tips_styles:
 {% include JB/setup %}
 
 {% capture tipTypes %}{% for node in site.categories[page.category_name] %}{{ node.type }}{% unless forloop.last %}|{% endunless %}{% endfor %}{% endcapture %}
-{% assign tipTypes = tipTypes | split:'|' %}
-
+{% assign tipTypes = tipTypes | split:'|' | sort %}
+{% assign tipTypeUnique = '' %}
+{% for t in tipTypes %}
+    {% assign temp = tipTypeUnique | split:'|' %}
+    {% if temp contains t %}
+    {% else %}
+        {% assign tempSize = temp | size %}
+        {% if tempSize > 0 %}
+            {% capture tipTypeUnique %}{{ tipTypeUnique | append:'|' | append:t }}{% endcapture %}
+        {% else %} 
+            {% capture tipTypeUnique %}{{ tipTypeUnique | append:t }}{% endcapture %}
+        {% endif %}
+    {% endif %}
+{% endfor %}
+{% assign tipTypeUnique = tipTypeUnique | split:'|' | sort %}
 <div class="row servive-block margin-bottom-10 sorting-block">
     <ul class="sorting-nav sorting-nav-v1 text-center">
         <li class="filter" data-filter="all">Vše</li>
-        {% for t in tipTypes | sort %}
+        {% for t in tipTypeUnique | sort %}
             <li class="filter" data-filter="category_{{ t | downcase }}">{{ t }}</li>
         {% endfor %}
     </ul>
