@@ -8,4 +8,4 @@ type: Sport
 ---
 {% include JB/setup %}
 
-Cyklistický závod horsykých kol Pancířské stráně má za sebou úspěšný první ročník. Dejte si do kalendáře příští (II.) ročník na konci října 2015 a sledujte informace na http://www.sumavanet.cz/triatlon
+Cyklistický závod horských kol Pancířské stráně má za sebou úspěšný první ročník. Dejte si do kalendáře příští (II.) ročník na konci října 2015 a sledujte informace na http://www.sumavanet.cz/triatlon
