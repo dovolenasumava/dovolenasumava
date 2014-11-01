@@ -1,7 +1,7 @@
 ---
 layout: post
 categories : [tipy-v-okoli, akce]
-title: Pochod Okolo Železné Rudy
+title: Pochod Okolo Železné Rudy - září
 tagline: "..."
 tags : [tipy]
 type: Akce
