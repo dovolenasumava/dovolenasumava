@@ -1,7 +1,7 @@
 ---
 layout: post
 categories : [tipy-v-okoli, sport]
-title: Horská výzva
+title: Lanové centrum
 tagline: "..."
 tags : [tipy]
 type: Sport
