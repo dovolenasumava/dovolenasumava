@@ -1,3 +1,4 @@
+---
 layout: post
 categories : [tipy-v-okoli, sport]
 title: Horská výzva
