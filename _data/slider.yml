@@ -5,8 +5,8 @@ backgroundImage :
 
 slides :
 
-    - title       : '<i>PODZIM NA ŠUMAVĚ</i> <br /> <i>JARO V SRDCI</i>'
-      description : '<i>Přijeďte k nám zažít ranní mlhy a večerní klid.</i> <br /> <i>V páru, s rodinou nebo s partou.</i>'
+    - title       : '<i>ZIMA JE TU</i> <br /> <i>OPRAŠTE LYŽE</i>'
+      description : '<i>První sníh je tu, plánujte dovolenou na lyžích.</i> <br /> <i>V páru, s rodinou nebo s partou.</i>'
       media       : '<img src="/assets/img/pictograms/Kolo-velky.png" alt="" /> <img src="/assets/img/pictograms/Turista-velky.png" alt="" /> <img src="/assets/img/pictograms/Lyze-velky.png" alt="" /> <img src="/assets/img/pictograms/Bezky-velky.png" alt="" /> <img src="/assets/img/pictograms/Hrib-velky.png" alt="" /> <img src="/assets/img/pictograms/Parking-velky.png" alt="" /> <img src="/assets/img/pictograms/WiFi-velky.png" alt="" />'
 
     - title       : '<i>DOVOLENÁ JE NA ŠUMAVĚ</i> <br /> <i>PO CELÝ ROK</i> <br />'
